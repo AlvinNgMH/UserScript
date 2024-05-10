@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Polyu SCMP Proxy Redirect
-// @version      1.4
+// @version      1.5
 // @description  Redirects to polyu scmp proxy
 // @downloadURL  https://raw.githubusercontent.com/AlvinNgMH/UserScript/main/Polyu-SCMP-Proxyedirect.user.js
 // @updateURL    https://raw.githubusercontent.com/AlvinNgMH/UserScript/main/Polyu-SCMP-Proxyedirect.user.js
