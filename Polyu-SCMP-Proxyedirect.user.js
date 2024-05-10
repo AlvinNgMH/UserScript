@@ -2,6 +2,9 @@
 // @name Polyu SCMP Proxy Redirect
 // @version      1.3
 // @description  Redirects to polyu scmp proxy
+// @home         https://github.com/AlvinNgMH/UserScript
+// @downloadURL  https://raw.githubusercontent.com/AlvinNgMH/UserScript/main/Polyu-SCMP-Proxyedirect.user.js
+// @updateURL    https://raw.githubusercontent.com/AlvinNgMH/UserScript/main/Polyu-SCMP-Proxyedirect.user.js
 // @author       Alvin
 // @icon         https://assets-v2.i-scmp.com/production/favicon.ico
 // @match *://*.scmp.com/*
