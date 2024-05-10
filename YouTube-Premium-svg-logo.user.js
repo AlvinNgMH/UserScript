@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name           YouTube Premium svg logo
 // @description    Change default YouTube logo to Premium logo.
+// @downloadURL    https://raw.githubusercontent.com/AlvinNgMH/UserScript/main/YouTube-Premium-svg-logo.user.js
+// @updateURL      https://raw.githubusercontent.com/AlvinNgMH/UserScript/main/YouTube-Premium-svg-logo.user.js
 // @author         Alvin
 // @icon           https://www.youtube.com/s/desktop/a669eefe/img/favicon_144x144.png
-// @version        1.0
+// @version        1.1
 // @match          *://*.youtube.com/*
 // @grant          GM_addStyle
 // ==/UserScript==
